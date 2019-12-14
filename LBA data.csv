@@ -1,0 +1,32 @@
+﻿Name,Cuisine,Price range,Type of meals,"Distance (walking, in min)",Vegetarian,Gluten-free,Language spoken by staff,Accessibility by public transportation
+Miss Saigon Restaurant,Vietnamese,€,"Lunch, Dinner",17,Y,Unknown,"German, English, Vietnamese","Bus, Taxi"
+Maroush,"Lebanese, Middle Eastern",€,"Lunch, Dinner",9,Y,Unknown,"German, English, Arabic",Walk
+Burgermeister Kottbusser Tor,American,€,"Lunch, Dinner",12,Y,Unknown,"German, English",Walk
+Basmah,"Sudanese, Mediterranean",€,"Lunch, Dinner",15,Y,Unknown,"German, English, Arabic","Walk, Bus"
+Mundvoll,International,€€,"Breakfast, Brunch, Lunch, Dinner",6,Y,Y,"German, English",Walk
+Paglia,"Italian, Mediterranean",€€,"Brunch, Lunch, Dinner",9,Y,Unknown,"German, English",Walk
+Milch & Zucker,International,€€,"Breakfast, Brunch, Lunch, Dinner",12,Y,Y,"German, English",Walk
+Yafo,Israeli,€€,"Lunch, Dinner",20,Y,N,"German, English","Bus, Taxi"
+Jambo,African,€€,"Lunch, Dinner",25,Y,N,"German, English, African dialects","Bus, Taxi"
+Westberlin,European,€€,"Breakfast, Brunch, Lunch",35,Y,Y,"German, English","Metro, Bus, Taxi"
+Amrit,Indian,€€,"Lunch, Dinner",25,Y,N,"German, English, Hindi","Metro, Taxi"
+Que Pasa Mexicana,Mexican,€,"Breakfast, Brunch, Lunch",10,Y,N,"German, Spanish","Walk, Bus"
+Hasir Burger,Turkish,€€,"Lunch, Dinner",10,N,N,"German, Turkish","Walk, Bus"
+Kreuzberger Weltlaterne,Greek,€€,"Breakfast, Brunch, Lunch",15,Y,N,"German, Greek, English","Bus, Taxi"
+Wonder Waffel,International,€€,"Breakfast, Brunch",18,Y,Y,"German, English","Metro, Bus, Taxi"
+Eden,Vietnamese,€€,"Lunch, Dinner",35,Y,N,"German, Vietnamese","Metro, Bus, Taxi"
+Nanoosh,Mediterranean,€€,"Breakfast, Brunch, Lunch",35,Y,N,"German, English","Bus, Taxi"
+La Piadina,Italian,€,"Brunch, Lunch, Dinner",7,Y,Y,"German, Italian, English",Walk
+Santa Maria,Mexican,€,"Lunch, Dinner",9,Y,N,"German, Spanish",Walk
+Sushi For You,Japanese,€€,"Lunch, Dinner",11,Y,Y,"German, English, Japanese","Walk, Bus"
+Hofbräu Wirtshaus,German,€€,"Lunch, Brunch, Dinner",40,Y,N,"German, English","Metro, Bus, Taxi"
+Pila,German,€,"Breakfast, Brunch",50,Y,Y,German,"Metro, Bus, Taxi"
+HuaTing,Chinese,€€,"Lunch, Brunch, Dinner",20,Y,N,"German, English",Taxi
+Long March Canteen,Chinese,€€€,"Lunch, Dinner",10,Y,Y,"German, English, Chinese","Walk, Taxi"
+Shezan,Indian,€€,"Lunch, Brunch, Dinner",18,Y,N,"German, English, Hindi","Walk, Bus"
+Lemongrass,Thai,€€,"Breakfast, Brunch",40,Y,N,"German, English, Thai","Metro, Bus, Taxi"
+Rissani,Morrocan,€,"Lunch, Brunch, Dinner",15,Y,N,"German, Arabic","Walk, Bus"
+Richard,French,€€€,"Lunch, Dinner",15,Y,Y,"German, French","Walk, Bus"
+Spindler,European,€€,"Lunch, Brunch, Dinner",18,Y,Y,"German, French","Walk, Bus"
+Knofi Feinkost,Turkish,€€,"Lunch, Brunch, Dinner",45,Y,N,"German, Turkish","Metro, Bus, Taxi"
+Mabuhay,Indonesian,€,"Lunch, Dinner",50,Y,Y,"German, English","Bus, Taxi"
